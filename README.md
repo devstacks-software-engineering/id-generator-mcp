@@ -2,6 +2,10 @@
 
 This is a Model Context Protocol (MCP) server that provides ID generation capabilities to AI assistants.
 
+<a href="https://glama.ai/mcp/servers/@devstacks-software-engineering/id-generator-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@devstacks-software-engineering/id-generator-mcp/badge" alt="ID Generator MCP server" />
+</a>
+
 ## Installation
 
 The ID Generator MCP can be integrated with various AI assistant platforms. Below are instructions for different environments:
